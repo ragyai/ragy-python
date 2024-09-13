@@ -1,7 +1,7 @@
 # ragy-python
  Python Wrapper for the Ragy web seach and summarization api
  
- [Signup](https://www.ragy.ai/signup) (3.000 free credits a month)
+ [Signup](https://www.ragy.ai/signup) (3.000 free credits a month) (or [Rapidapi](https://rapidapi.com/pschinkel80/api/ragy-search) )
  
  [Docs](https://www.ragy.ai/docs)
  
