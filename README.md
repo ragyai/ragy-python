@@ -17,13 +17,14 @@ result = ragy.search(query="What is Rag", lang="en", country="US", limit=50)
 print(result)
 
 ## Example search params:
-query: The search query string (required).
-lang: The language of the search results (optional, default: 'en').
-country: The country code for regional search results (optional, default: 'US').
-limit: Maximum number of results to return (optional, default: 50).
-timeout: Timeout for the search request in seconds (optional, default: 2).
-max_snippets_length: Max length of snippets to return (optional, default: 10000).
-add_markdown: Whether to include markdown formatted content (optional, default: 0).
-add_content_raw: Whether to include raw content in response (optional, default: 0).
-add_reader: Whether to include raw HTML reader content (optional, default: 0).
-add_html: Whether to include raw HTML in response (optional, default: 0).
+* query: The search query string (required).
+* lang: The language of the search results (optional, default: 'en').
+* country: The country code for regional search results (optional, default: 'US').
+* limit: Maximum number of results to return (optional, default: 50).
+* timeout: Timeout for the search request in seconds (optional, default: 2).
+* max_snippets_length: Max length of snippets to return (optional, default: 10000).
+* add_markdown: Whether to include markdown formatted content (optional, default: 0).
+* add_content_raw: Whether to include raw content in response (optional, default: 0).
+* add_reader: Whether to include raw HTML reader content (optional, default: 0).
+* add_html: Whether to include raw HTML in response (optional, default: 0).
+
