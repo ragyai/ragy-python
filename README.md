@@ -11,7 +11,7 @@
 import ragy-python
 
 api_key = "YOUR-API_KEY"
-ragy = RagyWebSearchAPI(api_key)
+ragy = RagyWebSearch(api_key)
 
 result = ragy.search(query="What is Rag", lang="en", country="US", limit=50)
 print(result)
