@@ -1,8 +1,11 @@
 # ragy-python
  Python Wrapper for the Ragy web seach and summarization api
- (Signup)[https://www.ragy.ai/signup] (3.000 free credits a month)
- (Docs)[https://www.ragy.ai/docs]
- (Website)[https://www.ragy.ai/]
+ 
+ [Signup](https://www.ragy.ai/signup) (3.000 free credits a month)
+ 
+ [Docs](https://www.ragy.ai/docs)
+ 
+ [Website](https://www.ragy.ai/)
 
 # Usage Example:
     api_key = "YOUR-API_KEY"
